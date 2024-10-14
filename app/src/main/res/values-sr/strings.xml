@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GUI -->
+    <string name="app_name">Lista namirnica</string>
+    <string name="grocery_name">Naziv:</string>
+    <string name="grocery_amount">Količina:</string>
+    <string name="grocery_price">Cena:</string>
+    <string name="grocery_add">Dodaj namirnicu</string>
+    <string name="reset_form_inputs">Resetuj polja</string>
+    <string name="end_grocery_list">Završi listu</string>
+    <string name="new_grocery_list">Započni novu listu</string>
+    <string name="grocery_list_summary_title">Pregled</string>
+    <string name="grocery_list_summary_count">Broj stavki:</string>
+    <!-- Validation -->
+    <string name="grocery_list_summary_total_amount">Ukupna količina:</string>
+    <string name="grocery_list_summary_total_price">Ukupna cena:</string>
+    <string name="error_title">Došlo je do greške:</string>
+    <string name="invalid_input">Nevažeći unos!</string>
+    <string name="invalid_product_name">Ime mora biti reč.</string>
+    <string name="invalid_product_amount">Količina mora biti celobrojna vrednost.</string>
+    <string name="invalid_product_price">Cena mora biti pozitivan broj.</string>
+    <string name="form_fields_empty">Polja za unos ne smeju biti prazna!</string>
+    <string name="grocery_list_complete">Lista namirnica je završena. Ne možete da je izmenite.</string>
+    <string name="grocery_list_empty">Lista namirnica je prazna.</string>
+    <string name="grocery_empty_history">Ne postoje prethodno sačuvane liste.</string>
+    <string name="unexpected_error">Došlo je do neočekivane greške.</string>
+</resources>
